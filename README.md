@@ -1,6 +1,3 @@
-Here’s a detailed description for a GitHub repository for your hand gesture recognition model:
-
----
 
 # Hand Gesture Recognition Model
 
